@@ -5,7 +5,6 @@ class Kontaktaoss extends Base {
       <div class="row" route="/kontaktOss" page-title="kontakt">
         <div class="col-12">
           <h1>Kontakta oss</h1>
-          <p>T1.</p>
           <h2> This is DHYR & RUMSON!</h2>
            
           <h3> Here we insert images</h3>
